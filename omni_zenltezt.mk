@@ -10,5 +10,4 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := zenltezt
 PRODUCT_NAME := omni_zenltezt
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G9287
 PRODUCT_MANUFACTURER := samsung
